@@ -20,6 +20,6 @@
   "dependencies": {
     "@actions/core": "^1.2.6",
     "@actions/io": "^1.0.2",
-    "@actions/tool-cache": "^1.6.0"
+    "@actions/tool-cache": "^4.0.0"
   }
 }
